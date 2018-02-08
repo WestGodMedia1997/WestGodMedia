@@ -1,0 +1,2 @@
+# WestGodMedia
+Media Company.
